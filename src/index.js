@@ -4,7 +4,7 @@ import mapboxgl from 'mapbox-gl';
 import buildMarker from "./marker";
 
 mapboxgl.accessToken =
-  'pk.eyJ1IjoibWlrZWtpbS1pbyIsImEiOiJja2Z3cGJqd2YxNWowMzBwOTY4Z3NsZTUzIn0.vvO4A8CMLuVZVL33lsvh_A';
+  'pk.eyJ1IjoiY2hhbnc4MzUiLCJhIjoiY2tmd3BjNHh0MWZkaTJ3bTZkeDNzajdvdyJ9.B2kAdcNT2s-kvEF2pkhV1g';
 
 const map = new mapboxgl.Map({
   container: 'map',
